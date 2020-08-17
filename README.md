@@ -1,2 +1,2 @@
 # datasciencecoursera
-evaluación del curso en corsera
+evaluación del curso en coursera
